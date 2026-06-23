@@ -334,7 +334,7 @@ The entire workflow is deterministic after transcription, ensuring extracted inf
 
 ## Hybrid Clinical Retrieval
 
-![Patient Search](Patient_360_Workspace.png)
+![Patient Search](Patient_360_Workspace_page.png)
 
 Every AI response is grounded using hybrid retrieval over previous consultations.
 
