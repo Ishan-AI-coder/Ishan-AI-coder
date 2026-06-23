@@ -282,7 +282,7 @@ The goal wasn't simply to integrate an LLM, but to demonstrate how modern AI sys
 
 ## AI Diagnostic Copilot
 
-![Diagnostic Copilot](Images/copilot.png)
+![Diagnostic Copilot](Synapse_ai_thumbnail.png)
 
 A LangGraph-powered clinical assistant capable of:
 
@@ -298,7 +298,7 @@ All recommendations pass through **human approval** before affecting patient rec
 
 ## AI Audio Scribe
 
-![Audio Pipeline](Images/audio_pipeline.png)
+![Audio Pipeline](Audio_ingestion_page.png)
 
 Consultation recordings are automatically transformed into structured clinical information.
 
@@ -334,7 +334,7 @@ The entire workflow is deterministic after transcription, ensuring extracted inf
 
 ## Hybrid Clinical Retrieval
 
-![Patient Search](Images/rag.png)
+![Patient Search](Patient_360_Workspace.png)
 
 Every AI response is grounded using hybrid retrieval over previous consultations.
 
@@ -350,7 +350,7 @@ to minimize hallucinations while maintaining relevant clinical context.
 
 ## Report Analysis
 
-![Report Analysis](Images/report_analysis.png)
+![Report Analysis](Report_Analysis_page.png)
 
 Upload laboratory reports or diagnostic documents to generate:
 
